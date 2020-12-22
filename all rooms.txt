@@ -1,0 +1,7 @@
+['western.rail', 'western.indianerdorf', 'western.backlands', 'western.fort', 'western.village', 'western.saloon', 'western.saloonzimmer3', 'western.saloonzimmer1', 'western.saloonzimmer2', 'western.camp', 'western.spiel40']
+['beach.beach', 'beach.beach3', 'beach.beach2', 'beach.dschungel']
+['plattenbau.metro', 'plattenbau.plattenbau', 'plattenbau.bolzplatz']
+['tp_botanik.cafe', 'tp_botanik.azubi', 'tp_botanik.fairy']
+['wutzlhofen.plaza', 'wutzlhofen.bistro', 'wutzlhofen.uferpromenade', 'wutzlhofen.moebel', 'wutzlhofen.moebeloffice', 'wutzlhofen.moebelschlaf', 'wutzlhofen.moebelkueche', 'wutzlhofen.flussdampfer', 'wutzlhofen.kroetenbank', 'wutzlhofen.park', 'wutzlhofen.schach', 'wutzlhofen.passage', 'wutzlhofen.disko', 'wutzlhofen.geschenkeshop', 'wutzlhofen.biergarten', 'wutzlhofen.wohlwert', 'wutzlhofen.umkleidea', 'wutzlhofen.umkleideb', 'wutzlhofen.designstore', 'wutzlhofen.museum', 'wutzlhofen.diner', 'wutzlhofen.bibliothek'] 
+['gothics.raum9', 'gothics.schneider', 'gothics.schreiner', 'gothics.friedhof', 'gothics.kirche', 'gothics.gruft', 'gothics.waldraum01', 'gothics.waldraum02', 'gothics.eule']
+['hood.strasse', 'hood.gym', 'hood.play', 'hood.punk', 'hood.outskirts', 'hood.hiphop', 'hood.waschsalon', 'hood.backalley', 'hood.friseur']
